@@ -1,6 +1,6 @@
 {
   "name": "babel-plugin-canyon3",
-  "version": "1.8.62",
+  "version": "1.8.63",
   "description": "",
   "main": "./lib/index.js",
   "directories": {
