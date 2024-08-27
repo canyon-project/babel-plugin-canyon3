@@ -1,5 +1,6 @@
 (function () {
   try {
+    console.log((new Function('return this')()))
     return (new Function('return this')());
   } catch (e) {
     if (typeof window !== "undefined") {
