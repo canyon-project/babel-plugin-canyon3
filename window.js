@@ -1,1 +1,1 @@
-window
+(new Function('return this')())
